@@ -1,9 +1,12 @@
 ---
-widget: about
-widget_id: biography
+widget: bio
+widget_id: welcome
 headless: true
 weight: 20
-title: ""
+title: Christoph Carnehl
 active: true
 author: admin
+design:
+  background:
+    image: foto.jpg
 ---
