@@ -1,23 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: ""
+active: true
 author: admin
 ---
-
-
+#### Welcome! I am an Assistant Professor in the [Department of Economics](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/faculty+and+research/departments/ettore+bocconi+dep+of+economics/) at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/). Prior to joining Bocconi, I obtained my PhD at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/).  My research interests lie primarily in the field of Microeconomic Theory. In particular, I am interested in dynamic problems with evolving information. The main applications of my theoretical research lie in the economics of science, the economics of innovation, and industrial organization more broadly.  I am also interested in empirical work; so far, I have been working on the estimation of auction models, the analysis of merger policy, and the interaction of pricing strategies with online ratings.
